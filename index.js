@@ -6,7 +6,7 @@ exports.handler = async (event, context) => {
     //console.log('Received event:', JSON.stringify(event, null, 2));
 
     const params = {
-        Bucket: "testepaginacaobucketjoaofaraujo",
+        Bucket: "seubucketteste",
         Key: "arquivo.json",
     }; 
     try {
