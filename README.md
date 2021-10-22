@@ -1,2 +1,3 @@
 # exemploPaginacaoLambda
-Exemplo de paginação de um json em lambda com nodejs
+[index.js](index.js): Exemplo do código
+[arquivo.json](arquivo.json): massa de teste usada
